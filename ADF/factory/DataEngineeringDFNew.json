@@ -1,0 +1,9 @@
+{
+	"name": "DataEngineeringDFNew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "830cd69b-7439-4d86-b641-b9ffc4316049",
+		"tenantId": "2dfe9f2a-0da9-46aa-901a-ef43f8a9e563"
+	}
+}
